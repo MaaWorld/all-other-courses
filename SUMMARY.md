@@ -33,3 +33,7 @@
   * [Completing the App: Pixel Art Canvas](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/completing-the-app-pixel-art-canvas.md)
   * [Completing the App: Gallery and PNG Export](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/completing-the-app-gallery-and-png-export.md)
   * [What to Learn Next](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/what-to-learn-next.md)
+
+## Google Gemini Ecosystem Guide&#x20;
+
+* [Page 1](google-gemini-ecosystem-guide/page-1.md)
