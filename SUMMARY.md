@@ -14,3 +14,6 @@
   * [Claude Prompt Engineering](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude-prompt-engineering.md)
   * [Claude Workflows for Daily Work](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude-workflows-for-daily-work.md)
   * [Building Your Personal Claude System](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/building-your-personal-claude-system.md)
+* [Claude Code: Workflows and Tools](claude-ecosystem-guide/claude-code-workflows-and-tools/README.md)
+  * [Getting Started with Claude Code](claude-ecosystem-guide/claude-code-workflows-and-tools/getting-started-with-claude-code.md)
+  * [Installing and Launching Claude Code](claude-ecosystem-guide/claude-code-workflows-and-tools/installing-and-launching-claude-code.md)

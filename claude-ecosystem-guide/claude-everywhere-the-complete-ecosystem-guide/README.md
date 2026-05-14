@@ -40,6 +40,20 @@ The course ends where your daily work begins. You’ll build a personal Claude w
 {% endstep %}
 {% endstepper %}
 
+<details>
+
+<summary><strong>LEARNING OBJECTIVES</strong></summary>
+
+* A clear understanding of every major Claude product and when to use each one
+* Practical knowledge of using Claude.ai features including Projects, Memory, Artifacts, and the analysis tool
+* The ability to connect Claude to local files and external tools using Claude Desktop and MCP
+* Hands-on experience delegating multi-step tasks to Claude Cowork
+* A library of prompt patterns that improve results across every surface
+* Practical workflows for writing, research, data analysis, and meetings
+* A personal Claude system designed around your role and recurring tasks
+
+</details>
+
 ***
 
 ### \*The Claude Ecosystem: Products and Plans
@@ -52,7 +66,7 @@ There's a version of Claude that reads files off your computer without you uploa
 
 Most people never open those doors. Not because they're hard to find. Because nobody told them the doors existed.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 This course opens that up. You'll explore every major way to use Claude, discover when each tool shines, and create a personalized workflow that brings them all together.
 
