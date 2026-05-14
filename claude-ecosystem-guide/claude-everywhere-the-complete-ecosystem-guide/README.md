@@ -4,6 +4,8 @@ description: >-
   Cowork, and MCP, to build a personal AI workflow system for your professional
   work.
 icon: claude
+tags:
+  - claude
 ---
 
 # Claude Everywhere: The Complete Ecosystem Guide

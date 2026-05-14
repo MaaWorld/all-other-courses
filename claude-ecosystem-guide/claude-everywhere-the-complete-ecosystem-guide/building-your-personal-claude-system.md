@@ -117,9 +117,9 @@ Focus on announcements that affect the products you use most. When a new model l
 
 This course covered the full Claude ecosystem for general use. Depending on your interests, several paths go deeper:
 
-* **If you are a developer or want to explore coding workflows:** The [Claude Code: Workflows and Tools](https://design-for-me.devpath.com/courses/claude-code) course covers Claude’s terminal agent, IDE integrations, and developer-focused workflows in detail.
-* **If you want to build MCP integrations:** The [MCP courses on Educative](https://design-for-me.devpath.com/courses/model-context-protocol) cover building custom servers and advanced patterns.
-* **If you want broader AI fluency:** The [Generative AI handbook](https://design-for-me.devpath.com/courses/generative-ai-handbook) covers the basics for effective, efficient, and ethical AI collaboration across tools.
+* **If you are a developer or want to explore coding workflows:** The Claude Code: Workflows and Tools course covers Claude’s terminal agent, IDE integrations, and developer-focused workflows in detail.
+* **If you want to build MCP integrations:** The MCP courses cover building custom servers and advanced patterns.
+* **If you want broader AI fluency:** The Generative AI handbook covers the basics for effective, efficient, and ethical AI collaboration across tools.
 
 ### Design your system <a href="#design-your-system" id="design-your-system"></a>
 
