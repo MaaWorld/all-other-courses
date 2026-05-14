@@ -26,3 +26,5 @@
   * [Setting Up Codex: CLI, Desktop App, and IDE Extension](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/setting-up-codex-cli-desktop-app-and-ide-extension.md)
   * [AGENTS.md: Teaching Codex Your Codebase](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/agents.md-teaching-codex-your-codebase.md)
   * [Skills, Plugins, and Automations](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/skills-plugins-and-automations.md)
+  * [MCP: Connecting Codex to External Tools](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/mcp-connecting-codex-to-external-tools.md)
+  * [Parallel Tasks, Worktrees, and Subagents](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/parallel-tasks-worktrees-and-subagents.md)
