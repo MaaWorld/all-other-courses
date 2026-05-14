@@ -11,4 +11,6 @@
   * [Document and File Analysis with Claude](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/document-and-file-analysis-with-claude.md)
   * [Claude Desktop and MCP: Local Files and External Apps](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude-desktop-and-mcp-local-files-and-external-apps.md)
   * [Claude Cowork: Multi-Step Task Execution](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude-cowork-multi-step-task-execution.md)
-  * [Page 1](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/page-1.md)
+  * [Claude Prompt Engineering](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude-prompt-engineering.md)
+  * [Claude Workflows for Daily Work](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude-workflows-for-daily-work.md)
+  * [Building Your Personal Claude System](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/building-your-personal-claude-system.md)
