@@ -21,4 +21,5 @@
 
 ## OpenAI Ecosystem Guide
 
-* [Mastering OpenAI Codex for Agentic Coding](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding.md)
+* [Mastering OpenAI Codex for Agentic Coding](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/README.md)
+  * [What Is OpenAI Codex?](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/what-is-openai-codex.md)

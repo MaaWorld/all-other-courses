@@ -33,7 +33,7 @@ By the end of the course, you’ll be able to set up a reliable Codex workflow, 
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Why choose this course?
 
