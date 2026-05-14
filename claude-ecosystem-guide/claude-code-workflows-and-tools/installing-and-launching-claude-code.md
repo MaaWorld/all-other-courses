@@ -10,6 +10,8 @@ We’ve established the core principle of tool use that gives Claude Code its po
 
 This process is straightforward, but precision is key. We’ll walk through it step-by-step.
 
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### How to install Claude Code <a href="#how-to-install-claude-code" id="how-to-install-claude-code"></a>
 
 Before installing anything, verify that your system is ready. Skipping this quick check can turn minor issues into major headaches.
