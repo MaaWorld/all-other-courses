@@ -5,6 +5,7 @@
 ## Claude Ecosystem Guide
 
 * [Claude Everywhere: The Complete Ecosystem Guide](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/README.md "Claude Everywhere: The Complete Ecosystem Guide")
+  * [The Claude Ecosystem: Products and Plans](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/the-claude-ecosystem-products-and-plans.md)
   * [Claude.ai Essentials: Models, Search, and Styles](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude.ai-essentials-models-search-and-styles.md)
   * [Claude Projects and Memory](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude-projects-and-memory.md)
   * [Claude Artifacts: Documents and Dashboards](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude-artifacts-documents-and-dashboards.md)
@@ -17,3 +18,7 @@
 * [Claude Code: Workflows and Tools](claude-ecosystem-guide/claude-code-workflows-and-tools/README.md)
   * [Getting Started with Claude Code](claude-ecosystem-guide/claude-code-workflows-and-tools/getting-started-with-claude-code.md)
   * [Installing and Launching Claude Code](claude-ecosystem-guide/claude-code-workflows-and-tools/installing-and-launching-claude-code.md)
+
+## OpenAI Ecosystem Guide
+
+* [Mastering OpenAI Codex for Agentic Coding](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding.md)
