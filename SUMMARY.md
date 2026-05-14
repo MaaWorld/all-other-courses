@@ -23,3 +23,4 @@
 
 * [Mastering OpenAI Codex for Agentic Coding](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/README.md)
   * [What Is OpenAI Codex?](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/what-is-openai-codex.md)
+  * [Setting Up Codex: CLI, Desktop App, and IDE Extension](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/setting-up-codex-cli-desktop-app-and-ide-extension.md)
