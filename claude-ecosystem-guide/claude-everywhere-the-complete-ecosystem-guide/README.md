@@ -8,7 +8,7 @@ icon: claude
 
 # Claude Everywhere: The Complete Ecosystem Guide
 
-<figure><img src="../.gitbook/assets/claude-ai.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/claude-ai.png" alt=""><figcaption></figcaption></figure>
 
 ### Why choose this course?
 
@@ -50,7 +50,7 @@ There's a version of Claude that reads files off your computer without you uploa
 
 Most people never open those doors. Not because they're hard to find. Because nobody told them the doors existed.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 This course opens that up. You'll explore every major way to use Claude, discover when each tool shines, and create a personalized workflow that brings them all together.
 

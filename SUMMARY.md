@@ -4,4 +4,8 @@
 
 ## Claude Ecosystem Guide
 
-* [Claude Everywhere: The Complete Ecosystem Guide](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide.md "Claude Everywhere: The Complete Ecosystem Guide")
+* [Claude Everywhere: The Complete Ecosystem Guide](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/README.md "Claude Everywhere: The Complete Ecosystem Guide")
+  * [Claude.ai Essentials: Models, Search, and Styles](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude.ai-essentials-models-search-and-styles.md)
+  * [Claude Projects and Memory](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude-projects-and-memory.md)
+  * [Claude Artifacts: Documents and Dashboards](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/claude-artifacts-documents-and-dashboards.md)
+  * [Document and File Analysis with Claude](claude-ecosystem-guide/claude-everywhere-the-complete-ecosystem-guide/document-and-file-analysis-with-claude.md)
