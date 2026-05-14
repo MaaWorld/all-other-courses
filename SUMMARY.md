@@ -28,3 +28,5 @@
   * [Skills, Plugins, and Automations](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/skills-plugins-and-automations.md)
   * [MCP: Connecting Codex to External Tools](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/mcp-connecting-codex-to-external-tools.md)
   * [Parallel Tasks, Worktrees, and Subagents](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/parallel-tasks-worktrees-and-subagents.md)
+  * [Codex in the GitHub Workflow: Issues, Pull Requests, and CI](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/codex-in-the-github-workflow-issues-pull-requests-and-ci.md)
+  * [Project Overview and Setup](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/project-overview-and-setup.md)
