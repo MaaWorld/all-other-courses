@@ -30,3 +30,6 @@
   * [Parallel Tasks, Worktrees, and Subagents](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/parallel-tasks-worktrees-and-subagents.md)
   * [Codex in the GitHub Workflow: Issues, Pull Requests, and CI](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/codex-in-the-github-workflow-issues-pull-requests-and-ci.md)
   * [Project Overview and Setup](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/project-overview-and-setup.md)
+  * [Completing the App: Pixel Art Canvas](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/completing-the-app-pixel-art-canvas.md)
+  * [Completing the App: Gallery and PNG Export](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/completing-the-app-gallery-and-png-export.md)
+  * [What to Learn Next](openai-ecosystem-guide/mastering-openai-codex-for-agentic-coding/what-to-learn-next.md)
